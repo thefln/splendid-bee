@@ -16,7 +16,7 @@ sections:
       - type: action
         title: See all items
         url: /store
-        style: primary
+        style: secondary
         arrow: true
   - type: featured_products_section
     title: Best sellers
