@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: /images/164923903_1102826290205428_1302857595187654930_n.jpg
     background_image_opacity: 65
     content: >
       # What's up Jamstack folks!
